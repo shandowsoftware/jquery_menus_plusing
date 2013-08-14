@@ -1,0 +1,19 @@
+/**
+ *menus plusing 
+ *
+ *author by___Beyond-Bit
+ *
+ *All Rights Reserved
+ *
+ */
+	#menu h2{
+		width:100px;
+		text-align: center;
+		float: left;
+	}
+	ul{list-style-type:none;margin:0;padding:0px;width:490px;} 
+	li{ margin:0px;padding:10px 0px 10px 0px;width:240px; float:left;display:block;}
+
+	a{text-decoration:none;color:#000}
+	.bgImg{background:url("../images/bg_1.jpg") no-repeat top;}
+	.menusBgImg{background:url("../images/menus_bg.jpg") no-repeat top;}
